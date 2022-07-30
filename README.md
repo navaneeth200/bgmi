@@ -1,0 +1,2 @@
+# bgmi
+Ban reason
